@@ -3,3 +3,6 @@ gitの練習
 詳細2
 
 tuika
+
+status
+diff
