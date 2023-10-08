@@ -1,2 +1,2 @@
 file1
-branch1 add
+branch2 add
