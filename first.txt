@@ -1,8 +1,0 @@
-gitの練習
-ワークフロー
-詳細2
-
-tuika
-
-status
-diff
